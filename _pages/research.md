@@ -26,8 +26,6 @@ author_profile: true
 
 &emsp; *Committee Members*: [Alexis Akira Toda](https://alexisakira.github.io/), [Ruoxuan Xiong](https://www.ruoxuanxiong.com/), [Esfandiar (Essie) Maasoumi](https://sites.google.com/view/esfandiarmaasoumi).
 
-<!-- [[Draft](.draft/xxxx.pdf)] -->
-
 &ensp; [4.] **Jiuyi Cheng**, [Ruoxuan Xiong](https://www.ruoxuanxiong.com/). (2026). Federated R-Learner with Mixture-of-Experts for Heterogeneous Treatment Effects. *ACIC Under Review*. [[Draft](./draft/federated_learner.pdf)] [[GitHub](https://github.com/jiuyicheng/federated-hte)]
 
 <!-- [GitHub] [Proposal] [Draft] -->
