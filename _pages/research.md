@@ -14,9 +14,9 @@ author_profile: true
 ## Working Paper
 ---
 &ensp; [1.] **Jiuyi Cheng**, [Alexis Akira Toda](https://alexisakira.github.io/). (2026). Does Calibration Pick the Right Model? Likelihood Evidence from Income Risk. [arXiv:2611.02029](https://arxiv.org/abs/2611.02029). 
-[[Draft](.draft/likelihood_calibration.pdf)] [[Slides](.draft/likelihood_calibration_slides.pdf)]
+[[Draft](./draft/likelihood_calibration.pdf)] [[Slides](./draft/likelihood_calibration_slides.pdf)]
 
-&ensp; [2.] **Jiuyi Cheng**. (2023). Principal-Agent Problem: Incentive Contract of Public-Private Partnership (PPP) Construction under Adverse Selection. [*Young Scholar Academic Journal*](https://user.yuanpeiyoungscholars.com/pdf/YoungScholarsAcademicJournal_final4), *4*, 80–108. [[Draft](.draft/incentive_contract.pdf)]
+&ensp; [2.] **Jiuyi Cheng**. (2023). Principal-Agent Problem: Incentive Contract of Public-Private Partnership (PPP) Construction under Adverse Selection. [*Young Scholar Academic Journal*](https://user.yuanpeiyoungscholars.com/pdf/YoungScholarsAcademicJournal_final4), *4*, 80–108. [[Draft](./draft/incentive_contract.pdf)]
 
 ## Work in Progress 
 ---
@@ -77,7 +77,7 @@ author_profile: true
 - **Equilibrium in the Tradable Permits Market** (Spring 2025). Department of Economics. Supervised by Prof. Samiran (Shomu) Banerjee. [[Notes](./drp/permits.pdf)]
 - **German Hartz vs. French Macron Labor Market Reforms** (Spring 2024). Department of Economics. Supervised by Prof. Teresa F. Romano. [[Annotated Bib](./drp/lm_reform.pdf)]
 
-- **Low-Rank Matrix Factorization (LRMF)** [[GitHub](https://github.com/niccChen/math347)] [[Slides](./drp/lrmf_slide.pdf)] [[Report](.drp/lrmf_report.pdf)]
+- **Low-Rank Matrix Factorization (LRMF)** [[GitHub](https://github.com/niccChen/math347)] [[Slides](./drp/lrmf_slide.pdf)] [[Report](./drp/lrmf_report.pdf)]
 
 - **Tax Policy Over Business Cycle** (Paper replication). [[Draft](./drp/paper_rep.pdf)]
 

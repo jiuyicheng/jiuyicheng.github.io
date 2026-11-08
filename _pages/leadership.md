@@ -27,7 +27,7 @@ author_profile: true
 
 **Ascend Investment Group (AIG)** 
 - **Stock Pitch:** American Healthcare REIT, Inc. (NYSE: AHR) [[Slides](./aig/ah_reit.pdf)], Wynn Resorts, Ltd. (NAS: WYNN) [[Slides](./aig/wynn.pdf)], Palantir Technologies Inc. (NYSE: PLTR) [[Slides](./aig/palantir.pdf)], Stora Enso Oyj. (HEL: STERV) [[Slides](./aig/stora_enso.pdf)] 
-- **Slide Deck:** LIBOR to SOFR Transition [[Slides](./aig/libor_sofr.pdf)], APAC Economy and Japan's The Lost Decade [[Slides](./aig/apac.pdf)], Forex Derivatives [Slides](./aig/forex.pdf), Tariffs [[Slides](./aig/tariffs.pdf)]
+- **Slide Deck:** LIBOR to SOFR Transition [[Slides](./aig/libor_sofr.pdf)], APAC Economy and Japan's The Lost Decade [[Slides](./aig/apac.pdf)], Forex Derivatives [[Slides](./aig/forex.pdf)], Tariffs [[Slides](./aig/tariffs.pdf)]
 
 <!-- 
 ## Initiatives  
