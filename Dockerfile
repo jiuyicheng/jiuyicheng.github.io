@@ -24,8 +24,6 @@ USER vscode
 # Copy Gemfile into the container (necessary for `bundle install`)
 COPY Gemfile ./
 
-
-
 # Install bundler and dependencies
 RUN gem install connection_pool:2.5.0
 RUN gem install bundler:2.3.26

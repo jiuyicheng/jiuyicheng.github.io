@@ -1,32 +1,46 @@
 ---
 permalink: /
-title: "Jiuyi (Joy) Cheng"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-# About Me
+# About
+---
 
-Jiuyi (Joy) Cheng is an undergraduate junior at Emory University pursuing a B.S. in Applied Mathematics & Statistics and a B.A. in Economics. She aspires to apply to Ph.D. in Economics and has solid background in econometrics, statistical inference, and mathematical modeling. 
+Jiuyi (Joy) Cheng is an undergraduate senior at Emory University pursuing a B.S. in Applied Mathematics & Statistics and a B.A. in Economics with Honors. Her research interests span **causal inference**, **semiparametric statistics**, **machine learning** and **econometric theory**, with applications in economic, financial, and healthcare settings. 
 
-She is currently the research assistant to [Prof. Stephen O'Connell](https://www.stephenoconnell.org) (Associate Professor of Economics) on developmental economics and causal inference and [Prof. Abhishek Ananth](https://abhiananthecon.github.io/) (Assistant Professor of Data & Decision Sciences) on networks and industrial organization. 
+Her honors thesis, supervised by Professors [Florian Gunsilius](https://www.floriangunsilius.com/) and [Pedro H.C. Sant'Anna](https://psantanna.com/), develops an orthogonal and doubly robust incremental causal estimator for continuous treatment leveraging negative control outcome. Working with Professor [Alexis Akira Toda](https://alexisakira.github.io/), she co-authored a paper showing that moment calibration can mislead income-risk model selection. She is also collaborating with Professor [Ruoxuan Xiong](https://www.ruoxuanxiong.com/) on a paper about federated R-learner with a mixture-of-experts (MoE) architecture for heterogeneous treatment effect estimation (ACIC under review). 
 
-She also serves as the Executive Assistant to the President of Chinese Economists Society, [Prof. Kaiji Chen](https://sites.google.com/site/chenkaiji/) (Professor of Economics). 
+<!-- high-dimensional non-linear adaptive grids algorithm for accurate functional approximation. * -->
 
-**Research Interests:**
-- **Econometrics:** Causal Inference, Non-Parametric Statistics, Machine Learning
-- **Applied Micro:** Industrial Organization, Labor Economics
+<!-- submitted to AISTATS; *Quantitative Economics* -->
 
-## Education
+Beyond research, she served as Executive Secretary and Undergraduate Fellow to the Chinese Economists Society, and as President of the Emory Chapter's Omicron Delta Epsilon, the International Economic Honors Society.
+
+<!-- She enjoys photography, travel, electric bass, and workout. She was a member of the U16 Chinese National Youth Basketball Team and a guest photographer for Visual China Group. -->
+
+## Education 
 
 **Emory University, Atlanta, GA** (2023.08 - Present)
 - B.S. in Applied Mathematics & Statistics
 - B.A. in Economics (Honors)
 
 **Relevant Coursework:**
-- **Ph.D. Core:** Econometric Methods I, Probability Theory & Statistical Inference, Microeconomic Theory I
-- **Economics:** Industrial Organization, Financial Econometrics, Econometrics, Data Science for Economists
-- **Mathematics:** Real Analysis, Matrix Analysis (Ph.D.), Linear Algebra, Non-Linear Optimization, Multivariable Calculus, PDE/ODE 
-- **Statistical Computing:** Causal Design & Inference, Mathematical Statistics, Numerical Analysis, Machine Learning 
+- **Mathematics:** Matrix Analysis (Ph.D.), Real Analysis, Non-Linear Optimization, Numerical Analysis, Linear Algebra, Advanced Calculus, Partial Differential Equations, Graph Theory (Seminar)
+- **Statistics:** Probability Theory & Statistical Inference (Ph.D.), Causal Inference w/Panel Data (Ph.D.), Machine Learning, Deep Learning, Mathematical Statistics 
+- **Economics:** Econometrics (Ph.D.), Microeconomic Theory (Ph.D.), Financial Econometrics (Time Series), Industrial Organization
+
+<!-- Upcoming Courses: High-Dimensional Probability (Directed Reading), Measure Theory, Probabilistic Machine Learning, Stochastic Calculus, Deep Learning, Advanced C++, High Performance Scientific Computing -->
+
+<!-- NEXT GOAL: Highest Honors, Phi Beta Kappa, Econometrics Game -->
+
+<!--
+**References:**
+- Florian Gunsilius: (Honors Committee Co-Chair)
+- Pedro H. C. Sant’Anna: (Honors Committee Co-Chair)
+- Alexis Akira Toda: (Research Advisor, Committee Member)
+- Ruoxuan Xiong: (Committee Member) 
+ -->

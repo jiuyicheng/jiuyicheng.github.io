@@ -41,3 +41,69 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+/* Typography and spacing overrides */
+body {
+  line-height: 1.6;   /* was 1.35 */
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin-top: 1.2rem;    /* was 0.4rem — 标题上方留足空间 */
+  margin-bottom: 0.3rem; /* 标题下方留小空间，与下文区分 */
+  line-height: 1.3;
+}
+
+p {
+  margin-bottom: 0.8rem; /* was 1.3em — 避免段落间距过大 */
+}
+
+/* 内容正文的段落嵌套在 .page__content 下，权重更高，需一并覆盖 */
+.page__content p {
+  margin-bottom: 0.8rem;
+}
+
+/* 列表项间距：默认 0.5em，收紧一半 */
+ul li,
+ol li {
+  margin-bottom: 0.25em;
+}
+
+/* 嵌套子列表与父项间距同步收紧 */
+li ul,
+li ol {
+  margin-top: 0.25em;
+}
+
+/* 段落或标题后直接跟列表（ul/ol）时：去掉列表浏览器默认上边距，
+:is(.page__content, .archive) :is(p, h1, h2, h3, h4, h5, h6) + :is(ul, ol) {
+  margin-top: 0;
+}
+
+:is(.page__content, .archive) :is(p, h1, h2, h3, h4, h5, h6):has(+ :is(ul, ol)) {
+  margin-bottom: 0.25rem;
+}
+
+/* single 布局内容区第一个元素（如 about 页的 # About 标题）顶部不留边距，
+   与 archive 布局的 .page__title 对齐 */
+.page__content > :first-child {
+  margin-top: 0;
+}
+
+/* about.md 的 title 为空字符串仍会渲染出空 .page__title，
+   隐藏它，避免把正文标题往下推 */
+.page__title:empty {
+  display: none;
+}
+
+/* 侧边栏各项（Atlanta/Emory/Website/Email/GitHub/LinkedIn）间距统一为 0.5em */
+.author__urls li {
+  margin-bottom: 0.5em;
+}
+
+/* 链接内边距归零，避免额外撑大行高，间距由 li 统一控制 */
+.author__urls a {
+  margin-bottom: 0;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
