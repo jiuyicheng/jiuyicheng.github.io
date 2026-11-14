@@ -11,11 +11,11 @@ author_profile: true
 
 **Pre-Orientation Leader** (2025), Emory University, Student Involvement, Leadership & Transitions (SILT).
 
-**Research Ambassador in Quantitative Social Sciences** (2026--2027), Emory University, Undergraduate Research Program (Pathway Center). 
+**Research Ambassador** (2026--2027), Emory University, Undergraduate Research Program (Pathway Center).
 
 ## Clubs
 
-**Emory Economic Investment Forum ([EEIF](https://emoryeconinvestmentforum.com/index.html))** [[GitHub](https://github.com/jiuyicheng/economic-investment-forum)]
+**Emory Economic Investment Forum (EEIF)** [[GitHub](https://github.com/jiuyicheng/economic-investment-forum)]
 - Fama-French Regression - APT, CAPM, Fama-French 5-factor models, factor construction (SMB/HML/RMW/CMA), GRS tests [Slides]
 - Contract Theory - principal-agent theory, transaction cost theory, adverse selection, moral hazard, mechanism design [[Slides](./eeif/contract_theory.pdf)]
 - Options Pricing - Black-Scholes, binomial tree, Monte Carlo, risk-neutral valuation, Greeks, implied volatility [[Slides](./eeif/options_pricing.pdf)]
