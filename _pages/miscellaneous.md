@@ -15,6 +15,7 @@ Coming soon!
 - **EigenVaria** - Portfolio optimizer. 
 - **Kairos Lab** - DSGE macroeconomic forecasting. 
 - **Melong** - Tibetan NLP. 
+- **- OperQuant** - quantitative trading strategies.
 
 <!--
 [Website] [GitHub] Sections include: backtesting, portfolio construction

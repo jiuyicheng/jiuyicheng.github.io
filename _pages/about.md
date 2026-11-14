@@ -18,7 +18,7 @@ Her honors thesis, supervised by Professors [Florian Gunsilius](https://www.flor
 
 <!-- submitted to AISTATS; *Quantitative Economics* -->
 
-Beyond research, she served as Executive Secretary and Undergraduate Fellow to the Chinese Economists Society, and as President of the Emory Chapter's Omicron Delta Epsilon, the International Economic Honors Society.
+Beyond research, she served as Executive Secretary and Undergraduate Fellow to the Chinese Economists Society, and as President of the Emory Chapter's Omicron Delta Epsilon (ODE), the International Economic Honors Society.
 
 <!-- She enjoys photography, travel, electric bass, and workout. She was a member of the U16 Chinese National Youth Basketball Team and a guest photographer for Visual China Group. -->
 
@@ -31,13 +31,14 @@ Please reach out at: jiuyi [dot] cheng [at] emory [dot] edu
 - B.A. in Economics (Honors)
 
 **Relevant Coursework:**
-- **Mathematics:** Matrix Analysis (Ph.D.), Real Analysis, Non-Linear Optimization, Numerical Analysis, Linear Algebra, Advanced Calculus, Partial Differential Equations, Graph Theory (Seminar)
-- **Statistics:** Probability Theory & Statistical Inference (Ph.D.), Causal Inference w/Panel Data (Ph.D.), Machine Learning, Deep Learning, Mathematical Statistics 
-- **Economics:** Econometrics (Ph.D.), Microeconomic Theory (Ph.D.), Financial Econometrics (Time Series), Industrial Organization
+- **Mathematics:** Matrix Analysis (Ph.D.), Real Analysis, Non-Linear Optimization, Numerical Analysis, Linear Algebra, Multivariable Calculus, Partial Differential Equations, Mathematics of Deep Learning, High-Dimensional Probability (Directed Reading), Graph Theory (Seminar)
+- **Statistics:** Probability Theory & Statistical Inference (Ph.D.), Causal Inference w/Panel Data (Ph.D.), Machine Learning, Mathematical Statistics 
+- **Economics:** Econometrics (Ph.D.), Microeconomic Theory (Ph.D.), Financial Econometrics (Time Series Analysis), Industrial Organization
 
-<!-- Upcoming Courses: High-Dimensional Probability (Directed Reading), Measure Theory, Probabilistic Machine Learning, Stochastic Calculus, Deep Learning, Advanced C++, High Performance Scientific Computing -->
+<!-- Upcoming Courses: Measure Theory (Ph.D.), Optimal Transport (Ph.D.), 
+Probabilistic Machine Learning, Stochastic Calculus, Deep Learning, Advanced C++, High Performance Scientific Computing 
 
-<!-- NEXT GOAL: Highest Honors, Phi Beta Kappa, Econometrics Game -->
+NEXT GOAL: Highest Honors, Phi Beta Kappa, Econometrics Game -->
 
 <!--
 **References:**

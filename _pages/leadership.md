@@ -8,13 +8,13 @@ author_profile: true
 {% include base_path %}
 
 ## Campus Life 
-
+---
 **Research Ambassador** (2026--2027), Emory University, *Undergraduate Research Program, Pathway Center*.
 
 **Pre-Orientation Leader** (2025), Emory University, *Student Involvement, Leadership & Transitions (SILT)*.
 
 ## Extracurricular
-
+---
 **Emory Economic Investment Forum (EEIF)**
 
 <div class="leadership-entry"><strong>Director of Quantitative Research</strong><span>2024.09 - Present</span></div>
@@ -37,3 +37,15 @@ author_profile: true
 
 - **Stock Pitch:** American Healthcare REIT, Inc. (NYSE: AHR) [[Slides](./aig/ah_reit.pdf)], Wynn Resorts, Ltd. (NAS: WYNN) [[Slides](./aig/wynn.pdf)], Palantir Technologies Inc. (NYSE: PLTR) [[Slides](./aig/palantir.pdf)], Stora Enso Oyj. (HEL: STERV) [[Slides](./aig/stora_enso.pdf)] 
 - **Slide Deck:** LIBOR to SOFR Transition [[Slides](./aig/libor_sofr.pdf)], APAC Economy and Japan's The Lost Decade [[Slides](./aig/apac.pdf)], Forex Derivatives [[Slides](./aig/forex.pdf)], Tariffs [[Slides](./aig/tariffs.pdf)]
+
+## Fellowships & Programs 
+---
+- **AI&ML Scholar**, Amazon Web Services (2026) 
+- **Millennium Fellow**, UN Academic Impact & Millennium Campus Network (2026) 
+- **Economics Scholars Program**, Federal Reserve Bank of Cleveland (2026)
+- **Executive Secretary & Undergraduate Fellow**, Chinese Economist Society (2025-2026)
+- **AI.Xperience Research Fellow**, Emory University (2025) 
+- **AI.Data Lab Fellow**, Emory University (2024-2025)
+- **Monetary Policy & International Finance Program**, UChicago-Peking University (2024)
+- **UN Spotlight Fellow**, World Federation of UN Associations (2023)
+- **Outstanding Yuanpei Young Scholar**, Peking University (2023)

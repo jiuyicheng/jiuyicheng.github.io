@@ -65,19 +65,19 @@ When an institution has few records, learning which individuals benefit from tre
 ## Presentations
 ---
 
-&ensp; [7] (Scheduled) **Jiuyi Cheng**. Multi-Estimator Synthetic Control for Policy Evaluation: Oregon SB 608 and Rent Growth. *National Conference on Undergraduate Research (NCUR)*, Grand Rapids, MI, 2027. Poster. 
+&ensp; [7] (Scheduled) **Jiuyi Cheng**. Multi-Estimator Synthetic Control for Policy Evaluation: Oregon SB 608 and Rent Growth. *National Conference on Undergraduate Research (NCUR)*. Grand Rapids, MI, 2027. [Poster]
 
-&ensp; [8] **Jiuyi Cheng**. Trust Under Threat: Statistical Screening with Betrayal-Averse Receivers. *Gulf Coast Undergraduate Research Symposium (GCURS)–Computational Applied Math & Operations Research*, Rice University, Houston, TX, 2026. [[Slides](./poster/trust_screening.pdf)]
+&ensp; [8] **Jiuyi Cheng**. Trust Under Threat: Statistical Screening with Betrayal-Averse Receivers. *Gulf Coast Undergraduate Research Symposium (GCURS)–Computational Applied Math & Operations Research*, Rice University. Houston, TX, 2026. [[Slides](./poster/trust_screening.pdf)]
 
 &ensp; [9] **Jiuyi Cheng**. Adaptive Conjoint Analysis on Threshold Effects in Refugee Return Intentions: Methodology & Experimental Design. *Economics Scholars Program (ESP), Federal Reserve of Cleveland*, 2026. [[Slides](./poster/conjoint.pdf)] [[Proposal](./poster/esp_proposal.pdf)]
 
 &emsp; This research is also presented at *Emory Undergraduate Research Symposium*, Emory University, Atlanta, GA, 2026. 
 
-&ensp; [10] **Jiuyi Cheng**. Volatility Spillover Across U.S. Production Networks: GJR‑GARCH with BEA Input‑Output Linkages. *National Conference on Undergraduate Research (NCUR)*, Richmond, VA, 2026. [[Poster](./poster/network_vol.pdf)] 
+&ensp; [10] **Jiuyi Cheng**. Volatility Spillover Across U.S. Production Networks: GJR‑GARCH with BEA Input‑Output Linkages. *National Conference on Undergraduate Research (NCUR)*. Richmond, VA, 2026. [[Poster](./poster/network_vol.pdf)] 
 
-&ensp; [11] **Jiuyi Cheng**. Student Trilemma: Contract Theory Model for Optimal Time Allocation of Academic, Leisure, and Sleep -- *Georgia Undergraduate Research Conference (GURC)*, Oxford, GA, 2025. [[Poster](./poster/trilemma.pdf)]
+&ensp; [11] **Jiuyi Cheng**. Student Trilemma: Contract Theory Model for Optimal Time Allocation of Academic, Leisure, and Sleep. *Georgia Undergraduate Research Conference (GURC)*. Oxford, GA, 2025. [[Poster](./poster/trilemma.pdf)]
 
-&ensp; [12] **Jiuyi Cheng**, Daniel Nickas, Riyan Shah, Will Liu. Algorithm-based LIHTC Site Optimization for Georgia's Qualified Allocation Plan on Housing Equity. *AI.Xperience Summer Research Showcase*, Emory University, Atlanta, GA, 2025. [[Poster](./poster/lihtc.pdf)]
+&ensp; [12] **Jiuyi Cheng**, Daniel Nickas, Riyan Shah, Will Liu. Algorithm-based LIHTC Site Optimization for Georgia's Qualified Allocation Plan on Housing Equity. *AI.Xperience Summer Research Showcase*, Emory University. Atlanta, GA, 2025. [[Poster](./poster/lihtc.pdf)]
 
 
 ## Research Assistant
