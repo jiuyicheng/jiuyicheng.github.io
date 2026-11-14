@@ -9,6 +9,6 @@ redirect_from:
 
 <p><a href="{{ '/cv/jiuyi_cheng_cv.pdf' | relative_url }}" class="btn">Download CV (PDF)</a></p>
 
-<object data="{{ '/cv/jiuyi_cheng_cv.pdf' | relative_url }}" type="application/pdf" width="100%" height="1000px" style="min-height: 1000px;">
+<iframe src="{{ '/cv/jiuyi_cheng_cv.pdf' | relative_url }}" title="Jiuyi Cheng CV" width="100%" height="1000px" style="border: 0;">
   <p>Your browser does not support embedded PDFs. <a href="{{ '/cv/jiuyi_cheng_cv.pdf' | relative_url }}">Download CV (PDF)</a>.</p>
-</object>
+</iframe>
