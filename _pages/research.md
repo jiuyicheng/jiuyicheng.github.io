@@ -32,7 +32,13 @@ This study presents an economic-profit-based cost-sharing contract mechanism und
 
 ## Work in Progress 
 ---
-&ensp; [3] **Jiuyi Cheng**. (2026). Orthogonal and Doubly Robust Estimation of Incremental Causal Effects Using Negative Control Outcomes. Honors Thesis. *ACIC Under Review*.
+&ensp; [3] **Jiuyi Cheng**. (2026). Orthogonal and Doubly Robust Estimation of Incremental Causal Effects Using Negative Control. Honors Thesis. *ACIC Under Review*.
+
+<details>
+  <summary>Abstract</summary>
+
+Unmeasured selection biases continuous-treatment effects after covariate adjustment. Negative-control rank transport identifies distributions but lacks nuisance-robust policy estimation, and standard doubly robust scores leave latent selection untreated. We extend Sofer et al. (2016) to fixed dose-shift policies: a reference quantile map converts a continuous negative control in different units to the outcome scale, and under a dose-invariant location model, subtraction yields a regression whose shift contrast is causal. A Riesz-representer residual correction gives a cross-fitted estimator consistent if either the adjusted regression or representer is correct, conditional on valid exclusion, rank equiconfounding, calibration, and dose support, while direct Riesz learning avoids treatment-density estimation.
+</details>
 
 &emsp; *Co-advisors*: [Florian Gunsilius](https://www.floriangunsilius.com/), [Pedro H.C. Sant'Anna](https://psantanna.com/). 
 
@@ -40,9 +46,16 @@ This study presents an economic-profit-based cost-sharing contract mechanism und
 
 &ensp; [4] **Jiuyi Cheng**, [Ruoxuan Xiong](https://www.ruoxuanxiong.com/). (2026). Federated R-Learner with Mixture-of-Experts for Heterogeneous Treatment Effects. *ACIC Under Review*. [[Draft](./draft/federated_learner.pdf)] [[GitHub](https://github.com/jiuyicheng/federated-hte)]
 
+<details>
+  <summary>Abstract</summary>
+
+When an institution has few records, learning which individuals benefit from treatment is difficult, and other institutions can help only if their treatment effects do not differ too much. We estimate the conditional average treatment effect (CATE) at a prespecified target site when patient records cannot be pooled. Each site cross-fits outcome and propensity models and forms R-learning residuals; federated parameter averaging then learns a shared mixture-of-experts feature map, while a target-specific ridge head partially pools with a global head. Independent target validation R-risk selects this adapted Fed-MoE or a target-only causal forest, and we prove the R-risk identity, bound selection error, and derive when partial pooling improves a fixed-feature head. Across 30 replications in each of four known-truth settings, the selected method lowered target-test CATE MSE by 7%–26%. MIMIC-IV-covariate results favored a pooled causal forest, and a four-hospital eICU analysis showed comparable held-out R-risk without observed CATE truth.
+</details>
+
 <!-- [GitHub] [Proposal] [Draft] -->
 
 &ensp; [5] **Jiuyi Cheng**, [Alexis Akira Toda](https://alexisakira.github.io/). (2026). Solving Nonlinear Functional Equations Using High-Dimensional Adaptive Grids.
+
 <!-- [GitHub] [Draft] -->
 
 &ensp; [6] **Jiuyi Cheng**. (2026). Identification and Estimation of Non-Compensatory Preferences in Adaptive Conjoint Experiments. Supervised by Prof. [Stephen O'Connell](https://www.stephenoconnell.org). 
@@ -92,9 +105,9 @@ This study presents an economic-profit-based cost-sharing contract mechanism und
 ## Directed Readings & Course Projects
 
 ---
-- **Matrix Analysis** (Fall 2026)
+- **Double/Debiased Machine Learning** (Fall 2026). Matrix Analysis. 
 - **High-Dimensional Probability** (Fall 2026). Department of Mathematics. 
-- **Low-Rank Matrix Factorization (LRMF)** (Spring 2026). [[GitHub](https://github.com/niccChen/math347)] [[Slides](./drp/lrmf_slide.pdf)] [[Report](./drp/lrmf_report.pdf)]
+- **Low-Rank Matrix Factorization (LRMF)** (Spring 2026). Non-linear Optimization. [[GitHub](https://github.com/niccChen/math347)] [[Slides](./drp/lrmf_slide.pdf)] [[Report](./drp/lrmf_report.pdf)]
 - **Tax Policy Over Business Cycle**, Paper replication (Spring 2026). [[Draft](./drp/paper_rep.pdf)]
 - **Equilibrium in the Tradable Permits Market** (Spring 2025). Department of Economics. Supervised by Prof. Samiran (Shomu) Banerjee. [[Notes](./drp/permits.pdf)]
 - **German Hartz vs. French Macron Labor Market Reforms** (Spring 2024). Department of Economics. Supervised by Prof. Teresa F. Romano. [[Annotated Bib](./drp/lm_reform.pdf)]
