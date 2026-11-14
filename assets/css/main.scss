@@ -95,8 +95,9 @@ li ol {
   display: none;
 }
 
-/* Resume-style education rows on the About page */
-.education-entry {
+/* Resume-style rows on the About and Leadership pages */
+.education-entry,
+.leadership-entry {
   display: flex;
   justify-content: space-between;
   gap: 1rem;
