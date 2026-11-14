@@ -95,6 +95,14 @@ li ol {
   display: none;
 }
 
+/* Resume-style education rows on the About page */
+.education-entry {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  margin-bottom: 0.25em;
+}
+
 /* 侧边栏各项（Atlanta/Emory/Website/Email/GitHub/LinkedIn）间距统一为 0.5em */
 .author__urls li {
   margin-bottom: 0.5em;

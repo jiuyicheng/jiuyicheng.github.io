@@ -22,9 +22,11 @@ Beyond research, she served as Executive Secretary and Undergraduate Fellow to t
 
 <!-- She enjoys photography, travel, electric bass, and workout. She was a member of the U16 Chinese National Youth Basketball Team and a guest photographer for Visual China Group. -->
 
+Please reach out at: jiuyi [dot] cheng [at] emory [dot] edu
+
 ## Education 
 
-**Emory University, Atlanta, GA** (2023.08 - Present)
+<div class="education-entry"><strong>Emory University, Atlanta, GA</strong><span>2023.08 - Present</span></div>
 - B.S. in Applied Mathematics & Statistics
 - B.A. in Economics (Honors)
 
