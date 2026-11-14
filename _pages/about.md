@@ -26,7 +26,7 @@ Please reach out at: jiuyi [dot] cheng [at] emory [dot] edu
 
 ## Education 
 
-<div class="education-entry"><strong>Emory University, Atlanta, GA</strong><span>2023.08 - Present</span></div>
+<div class="education-entry"><strong>Emory University, Atlanta, GA</strong><span>Aug., 2023 - Present</span></div>
 - B.S. in Applied Mathematics & Statistics
 - B.A. in Economics (Honors)
 
