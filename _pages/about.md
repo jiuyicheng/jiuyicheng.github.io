@@ -1,6 +1,7 @@
 ---
 permalink: /
-title: ""
+title: "Jiuyi (Joy) Cheng"
+description: "Jiuyi (Joy) Cheng's academic portfolio at Emory University, with research in causal inference, semiparametric statistics, machine learning, and econometric theory."
 author_profile: true
 redirect_from: 
   - /about/

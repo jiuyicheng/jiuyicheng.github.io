@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: "Miscellaneous"
+description: "Miscellaneous initiatives and featured articles by Jiuyi (Joy) Cheng."
 permalink: /miscellaneous/
 author_profile: true
 ---

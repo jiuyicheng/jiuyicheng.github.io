@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Jiuyi (Joy) Cheng"
 title_separator          : "-"
 name                     : &name "Jiuyi (Joy) Cheng"
-description              : &description "Jiuyi (Joy) Cheng's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Jiuyi (Joy) Cheng — Emory economics and applied mathematics student specializing in causal inference, semiparametric statistics, and machine learning."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : "https://jiuyicheng.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -144,12 +144,12 @@ facebook:
   app_id                 :
   publisher              :
 og_image                 :  # Social media default site image
-og_description           :  # Social media default site image description
+og_description           : "Jiuyi (Joy) Cheng's academic portfolio at Emory University: research in causal inference, statistics, economics, and machine learning."
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
+  name                   : "Jiuyi (Joy) Cheng"
   links:
     - "https://scholar.google.com/citations?user=9D2upPQAAAAJ"
     - "https://github.com/jiuyicheng"
