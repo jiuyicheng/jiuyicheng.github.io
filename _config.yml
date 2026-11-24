@@ -143,7 +143,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Social media default site image
+og_image                 : "/images/profile.png"
 og_description           : "Jiuyi (Joy) Cheng's academic portfolio at Emory University: research in causal inference, statistics, economics, and machine learning."
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
