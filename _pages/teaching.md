@@ -7,6 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
+---
+
 **Teaching Assistant**
 - **ECON 405**: *Industrial Organization* – Emory University (Spring 2026) 
 - **Intro to Set Theory** (ASDAN, High School) – University of Oxford‑Mansfield College (Summer 2024)

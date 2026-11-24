@@ -7,12 +7,10 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.research %}
-  {% include archive-single.html %}
-{% endfor %}
+---
 
 ## Working Paper
----
+
 &ensp; [1] **Jiuyi Cheng**, [Alexis Akira Toda](https://alexisakira.github.io/). (2026). Does Calibration Pick the Right Model? Likelihood Evidence from Income Risk. [arXiv:2611.02029](https://arxiv.org/abs/2611.02029).
 [[Draft](./draft/likelihood_calibration.pdf)] [[Slides](./draft/likelihood_calibration_slides.pdf)]
 
@@ -30,8 +28,10 @@ Quantitative macroeconomics typically disciplines models by matching selected mo
 This study presents an economic-profit-based cost-sharing contract mechanism under asymmetric information to eliminate the agent's opportunistic behavior and reduce the principal's information rent in public-private partnership (PPP) projects. According to principal-agent theory (PAT), the government's set of contract options screens the ability of the private contractor, minimizing wasted effort and maximizing welfare in the economy. This paper analyzes the effort level, transfer payment, and cost-sharing ratio in response to the objectives of the government and the enterprise, specifically in terms of benefits and costs. The conclusions of this research may serve as a theoretical foundation and provide practical guidance for designing incentive mechanisms and making decisions in PPP build-operate-transfer construction projects.
 </details>
 
-## Work in Progress 
 ---
+
+## Work in Progress
+
 &ensp; [3] **Jiuyi Cheng**. (2026). Orthogonal and Doubly Robust Estimation of Incremental Causal Effects Using Negative Control. Honors Thesis. *ACIC Under Review*.
 
 <details>
@@ -62,8 +62,9 @@ When an institution has few records, learning which individuals benefit from tre
 
 <!-- [GitHub] [Draft] -->
 
-## Presentations
 ---
+
+## Presentations
 
 &ensp; [7] (Scheduled) **Jiuyi Cheng**. Multi-Estimator Synthetic Control for Policy Evaluation: Oregon SB 608 and Rent Growth. *National Conference on Undergraduate Research (NCUR)*. Grand Rapids, MI, 2027. [Poster]
 
@@ -79,9 +80,9 @@ When an institution has few records, learning which individuals benefit from tre
 
 &ensp; [12] **Jiuyi Cheng**, Daniel Nickas, Riyan Shah, Will Liu. Algorithm-based LIHTC Site Optimization for Georgia's Qualified Allocation Plan on Housing Equity. *AI.Xperience Summer Research Showcase*, Emory University. Atlanta, GA, 2025. [[Poster](./poster/lihtc.pdf)]
 
+---
 
 ## Research Assistant
----
 
 - Network Formation and Interference via Density and Sparsity Assumptions.  Supervised by Prof. [Abhishek Ananth](https://abhiananthecon.github.io/). 
 
@@ -91,6 +92,7 @@ When an institution has few records, learning which individuals benefit from tre
 
 <!-- [GitHub] -->
 
+---
 
 ## Editorials
 
@@ -102,9 +104,10 @@ When an institution has few records, learning which individuals benefit from tre
 
 <!-- [Draft] --->
 
+---
+
 ## Directed Readings & Course Projects
 
----
 - **Double/Debiased Machine Learning** (Fall 2026). Matrix Analysis. 
 - **High-Dimensional Probability** (Fall 2026). Department of Mathematics. 
 - **Low-Rank Matrix Factorization (LRMF)** (Spring 2026). Non-linear Optimization. [[GitHub](https://github.com/niccChen/math347)] [[Slides](./drp/lrmf_slide.pdf)] [[Report](./drp/lrmf_report.pdf)]

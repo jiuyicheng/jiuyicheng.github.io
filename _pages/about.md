@@ -1,13 +1,14 @@
 ---
+layout: archive
+title: "About"
 permalink: /
-description: "Jiuyi (Joy) Cheng's academic portfolio at Emory University, with research in causal inference, semiparametric statistics, machine learning, and econometric theory."
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-# About
+---
 
 Jiuyi (Joy) Cheng is an undergraduate senior at Emory University pursuing a B.S. in Applied Mathematics & Statistics and a B.A. in Economics with Honors. Her research interests span **causal inference**, **semiparametric statistics**, **machine learning** and **econometric theory**, with applications in economic, financial, and healthcare settings. 
 
