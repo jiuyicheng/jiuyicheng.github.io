@@ -9,13 +9,12 @@ author_profile: true
 
 ## Initiatives
 
-Coming soon! 
+Coming soon!
 
-- **Articulus** - Education empowerment. 
-- **EigenVaria** - Portfolio optimizer. 
-- **Kairos Lab** - DSGE macroeconomic forecasting. 
-- **Melong** - Tibetan NLP. 
-- **- OperQuant** - quantitative trading strategies.
+- **Articulus** - Education empowerment.
+- **EigenVaria** - Portfolio optimizer + quant trading strategy.
+- **Kairos Lab** - DSGE macroeconomic forecasting.
+- **Melong** - Tibetan NLP.
 
 <!--
 [Website] [GitHub] Sections include: backtesting, portfolio construction
